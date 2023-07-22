@@ -1,0 +1,7 @@
+0 Burn
+1 Edema
+2 Facial Drooping
+3 Ecchymosis
+4 Laceration
+5 Cyanosis
+6 Urticaria

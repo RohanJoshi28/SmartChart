@@ -1,0 +1,31 @@
+Patient Background Info:
+Bob Smith
+
+Patient Vitals:
+AVPU: A
+GCS: 
+Pulse Rate: 60
+Blood Pressure: 130/60
+Pulse Ox: 99
+Temperature: 
+Skin Condition: 
+Pupils: 
+Breath Sounds: 
+
+Additional Patient Assessment: 
+
+Patient History:
+SAMPLE: 
+OPQRST: 
+
+EMS Interventions:
+
+
+Traumas:
+
+
+Care Report: 
+Provider names: 
+Receiving facility: 
+Arrival time / Depart time: 
+Date of call: 2023-06-19
