@@ -2,7 +2,7 @@ import openai
 import re
 import json
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def extract_vitals(string, compare_to):
     string = string.replace('output:', 'output')
